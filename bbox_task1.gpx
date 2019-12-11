@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="togpx">
+   <trk>
+      <name />
+      <desc />
+      <trkseg>
+         <trkpt lat="36.16582393762791" lon="-86.78179979324341" />
+         <trkpt lat="36.165410348814085" lon="-86.78153425455093" />
+         <trkpt lat="36.1658542529525" lon="-86.78046941757202" />
+         <trkpt lat="36.16627866626573" lon="-86.78075373172759" />
+         <trkpt lat="36.16582393762791" lon="-86.78179979324341" />
+      </trkseg>
+   </trk>
+   <wpt lat="36.16582393762791" lon="-86.78179979324341" />
+   <wpt lat="36.165410348814085" lon="-86.78153425455093" />
+   <wpt lat="36.1658542529525" lon="-86.78046941757202" />
+   <wpt lat="36.16627866626573" lon="-86.78075373172759" />
+   <wpt lat="36.16582393762791" lon="-86.78179979324341" />
+</gpx>

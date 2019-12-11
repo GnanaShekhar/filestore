@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="togpx">
+   <trk>
+      <name />
+      <desc />
+      <trkseg>
+         <trkpt lat="36.07042642697911" lon="-86.81449055671692" />
+         <trkpt lat="36.07046978723051" lon="-86.81313872337341" />
+         <trkpt lat="36.071189563912256" lon="-86.81419014930725" />
+      </trkseg>
+   </trk>
+   <trk>
+      <name />
+      <desc />
+      <trkseg>
+         <trkpt lat="36.06972398757614" lon="-86.80809617042542" />
+         <trkpt lat="36.06948116755809" lon="-86.80754899978638" />
+         <trkpt lat="36.06867465283296" lon="-86.80688381195068" />
+      </trkseg>
+   </trk>
+   <trk>
+      <name />
+      <desc />
+      <trkseg>
+         <trkpt lat="36.071371675040666" lon="-86.80864334106445" />
+         <trkpt lat="36.071779255562106" lon="-86.80835366249084" />
+      </trkseg>
+   </trk>
+   <trk>
+      <name />
+      <desc />
+      <trkseg>
+         <trkpt lat="36.06782476815316" lon="-86.80967330932617" />
+         <trkpt lat="36.067226374451785" lon="-86.8099308013916" />
+      </trkseg>
+   </trk>
+   <trk>
+      <name />
+      <desc />
+      <trkseg>
+         <trkpt lat="36.066185678911964" lon="-86.80919051170349" />
+         <trkpt lat="36.06663664866952" lon="-86.8078601360321" />
+      </trkseg>
+   </trk>
+   <trk>
+      <name>Sample<name />
+      <desc />
+      <trkseg>
+         <trkpt lat="36.06563930824234" lon="-86.8150269985199" />
+         <trkpt lat="36.06563930824234" lon="-86.80456638336182" />
+         <trkpt lat="36.0719440215564" lon="-86.80456638336182" />
+         <trkpt lat="36.0719440215564" lon="-86.8150269985199" />
+         <trkpt lat="36.06563930824234" lon="-86.8150269985199" />
+      </trkseg>
+   </trk>
+   <wpt lat="36.06563930824234" lon="-86.8150269985199" />
+   <wpt lat="36.06563930824234" lon="-86.80456638336182" />
+   <wpt lat="36.0719440215564" lon="-86.80456638336182" />
+   <wpt lat="36.0719440215564" lon="-86.8150269985199" />
+   <wpt lat="36.06563930824234" lon="-86.8150269985199" />
+</gpx>
